@@ -15,7 +15,7 @@
 ```text
 🎓 First-year IT student from Naresuan university
 🔍 Passionate about how systems work — from low-level internals to modern infrastructure
-🛠️  Building tools, breaking things (ethically), and learning every day
+🛠️ Building tools, breaking things (ethically), and learning every day
 ```
 
 สวัสดีครับ ผม **nine** — นักศึกษา IT สนใจด้าน **Network**, **Cybersecurity**, **AI** และ **Reverse Engineering** ,**Wireless tools sdr**
