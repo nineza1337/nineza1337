@@ -69,8 +69,10 @@
 | | | |
 |:---:|:---:|:---:|
 | 🔐 Cybersecurity | 🌐 Network Engineering | 🔍 Reverse Engineering |
-| 📡 SDR Research | 📶 Wireless Protocols | 🍎 Apple Wireless Tech |
-| 🤖 Artificial Intelligence | 🐧 Linux Systems | ☁️ Cloud & Infrastructure |
+| 📡 SDR & Wireless Tools | 📶 Wireless Protocols | 🍎 Apple AirDrop / AWDL |
+| 🦠 Malware Analysis | 🔑 Cryptography & AES | 🪟 Windows Security / RCE |
+| ⚡ Low-level Networking (af_xdp) | 🎮 Game Server Scanning | 🔌 UART & Hardware Hacking |
+| 🔭 Astronomical Data (FITS) | 🤖 Artificial Intelligence | 🐧 Linux Systems |
 
 ---
 
