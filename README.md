@@ -88,12 +88,3 @@
 | [**Star-Analysis-Tool**](https://github.com/nineza1337/Star-Analysis-Tool) | Tools for FITS astronomical images |
 | [**Xworm-Decryptor-AES**](https://github.com/nineza1337/Xworm-Decryptor-AES) | Xworm AES decryption utility |
 
-
-## 📚 Currently Learning
-
-```text
-▸ Java & Data Structures & Algorithms
-▸ Reverse Engineering & Network Programming
-▸ Linux System Administration & Software Architecture
-▸ AI Development & SDR / Wireless Protocols
-```
