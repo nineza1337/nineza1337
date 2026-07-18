@@ -18,8 +18,6 @@
 🛠️ Building tools, breaking things (ethically), and learning every day
 ```
 
-สวัสดีครับ ผม **nine** — นักศึกษา IT สนใจด้าน **Network**, **Cybersecurity**, **AI** และ **Reverse Engineering** ,**Wireless tools sdr**
-
 ---
 
 ## 🔗 Connect
