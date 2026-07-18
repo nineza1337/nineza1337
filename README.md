@@ -42,16 +42,6 @@
 ### Languages
 <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,go,cs&theme=dark" alt="Languages" />
 
-<br/><br/>
-
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-
-<br/><br/>
-
 ### Tools & Platforms
 <img src="https://skillicons.dev/icons?i=linux,kali,docker,git,github,vscode,powershell,bash,arduino,apple&theme=dark" alt="Tools" />
 
