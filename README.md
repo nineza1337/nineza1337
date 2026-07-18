@@ -18,7 +18,7 @@
 🛠️  Building tools, breaking things (ethically), and learning every day
 ```
 
-สวัสดีครับ ผม **AKANINE Saber** (aka **nineza1337**) — นักศึกษาวิศวกรรมซอฟต์แวร์ที่สนใจด้าน **Network**, **Cybersecurity**, **AI** และ **Reverse Engineering** ชอบลงลึกว่าระบบทำงานอย่างไร ไม่ใช่แค่ใช้งานเฉย ๆ
+สวัสดีครับ ผม **nine** — นักศึกษา IT สนใจด้าน **Network**, **Cybersecurity**, **AI** และ **Reverse Engineering** ,**Wireless tools sdr**
 
 ---
 
