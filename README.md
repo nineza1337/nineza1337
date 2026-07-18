@@ -13,7 +13,7 @@
 ## 🧑‍💻 About Me
 
 ```text
-🎓 First-year Software Engineering student from Thailand
+🎓 First-year IT student from Naresuan university
 🔍 Passionate about how systems work — from low-level internals to modern infrastructure
 🛠️  Building tools, breaking things (ethically), and learning every day
 ```
