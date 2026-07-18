@@ -86,30 +86,6 @@
 | [**Star-Analysis-Tool**](https://github.com/nineza1337/Star-Analysis-Tool) | Tools for FITS astronomical images |
 | [**Xworm-Decryptor-AES**](https://github.com/nineza1337/Xworm-Decryptor-AES) | Xworm AES decryption utility |
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=nineza1337&show_icons=true&theme=tokyonight&title_color=00CED1&icon_color=00CED1&text_color=c9d1d9&bg_color=0d1117&border_color=21262d&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=nineza1337&theme=tokyonight&ring=00CED1&fire=00CED1&currStreakLabel=00CED1&sideLabels=FFFFFF&dates=FFFFFF&background=0D1117&border=21262D" alt="GitHub Streak" />
-
-<br/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nineza1337&layout=compact&theme=tokyonight&title_color=00CED1&text_color=c9d1d9&bg_color=0d1117&border_color=21262d&hide_border=true" alt="Top Languages" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nineza1337&theme=react-dark&color=00CED1&line=00CED1&point=FFFFFF&area=true&hide_border=true&bg_color=0d1117" alt="Activity Graph" />
-
-</div>
-
----
 
 ## 📚 Currently Learning
 
