@@ -95,30 +95,3 @@
 ▸ Linux System Administration & Software Architecture
 ▸ AI Development & SDR / Wireless Protocols
 ```
-
----
-
-## 🎯 Goals
-
-- [ ] Build useful open-source projects
-- [ ] Master networking & reverse engineering
-- [ ] Explore AI technologies
-- [ ] Contribute to the open-source community
-
----
-
-<div align="center">
-
-### 💡 Quote
-
-> *"The more you learn, the more you realize how much there is to discover."*
-
-<br/>
-
-**Keep Learning. Keep Building. Keep Curious.** 🚀
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00CED1&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=0d1117&animation=twinkling" alt="Footer" />
-
-</div>
