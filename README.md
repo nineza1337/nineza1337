@@ -40,22 +40,23 @@
 <div align="center">
 
 ### Languages
-<img src="https://skillicons.dev/icons?i=java,python,js,go,cpp,cs&theme=dark" alt="Languages" />
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,go,cs&theme=dark" alt="Languages" />
 
-### Tools & Platforms
-<img src="https://skillicons.dev/icons?i=linux,docker,git,github,vscode,powershell,bash&theme=dark" alt="Tools" />
-
-</div>
-
-<br/>
-
-<div align="center">
+<br/><br/>
 
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+
+<br/><br/>
+
+### Tools & Platforms
+<img src="https://skillicons.dev/icons?i=linux,kali,docker,git,github,vscode,powershell,bash,arduino,apple&theme=dark" alt="Tools" />
+
+<br/><br/>
+
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
 ![Apple](https://img.shields.io/badge/Apple-000000?style=flat-square&logo=apple&logoColor=white)
@@ -69,7 +70,6 @@
 </div>
 
 ---
-
 ## 🔬 Areas of Interest
 
 | | | |
