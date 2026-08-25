@@ -41,7 +41,7 @@
 <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,go&theme=dark" alt="Languages" />
 
 ### Tools & Platforms
-<img src="https://skillicons.dev/icons?i=linux,kali,redhat,windows,vscode,powershell,bash,arduino,apple&theme=dark" alt="Tools" />
+<img src="https://skillicons.dev/icons?i=linux,kali,redhat,windows,visualstudio,vscode,powershell,bash,arduino,apple&theme=dark" alt="Tools" />
 
 <br/><br/>
 
