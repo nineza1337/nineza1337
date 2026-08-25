@@ -38,7 +38,7 @@
 <div align="center">
 
 ### Languages
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,go,cs&theme=dark" alt="Languages" />
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,go&theme=dark" alt="Languages" />
 
 ### Tools & Platforms
 <img src="https://skillicons.dev/icons?i=linux,kali,redhat,windows,vscode,powershell,bash,arduino,apple&theme=dark" alt="Tools" />
