@@ -67,8 +67,7 @@
 | 🔐 Cybersecurity | 🌐 Network Engineering | 🔍 Reverse Engineering |
 | 📡 SDR & Wireless Tools | 📶 Wireless Protocols | 🍎 Apple AirDrop / AWDL |
 | 🦠 Malware Analysis | 🔑 Cryptography & AES | 🪟 Windows Security / RCE |
-| ⚡ Low-level Networking (af_xdp) | 🔌 UART & Hardware Hacking |
-| 🤖 Artificial Intelligence
+| ⚡ Low-level Networking (af_xdp) | 🔌 UART & Hardware Hacking | 🤖 Artificial Intelligence |
 
 ---
 
