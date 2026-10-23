@@ -70,15 +70,3 @@
 
 ---
 
-## 🧪 Featured Projects
-
-| Project | Description |
-|:--------|:------------|
-| [**Airdrop-standalone**](https://github.com/nineza1337/Airdrop-standalone) | Apple AirDrop security research (iOS 26++) |
-| [**Mcscan**](https://github.com/nineza1337/Mcscan) | Minecraft server scanner using af_xdp |
-| [**owl-kali**](https://github.com/nineza1337/owl-kali) | Modified OWL for Kali AWDL research |
-| [**PowerShell-RCE-Detection**](https://github.com/nineza1337/PowerShell-RCE-Detection) | PowerShell RCE detection tool (Go) |
-| [**Serial-Data-Inverter**](https://github.com/nineza1337/Serial-Data-Inverter) | Inverted UART serial data reader |
-| [**Star-Analysis-Tool**](https://github.com/nineza1337/Star-Analysis-Tool) | Tools for FITS astronomical images |
-| [**Xworm-Decryptor-AES**](https://github.com/nineza1337/Xworm-Decryptor-AES) | Xworm AES decryption utility |
-
