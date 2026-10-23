@@ -62,7 +62,7 @@
 ---
 ## 🔬 Areas of Interest
 
-
+| | | |
 |:---:|:---:|:---:|
 | 🔐 Cybersecurity | 🌐 Network Engineering | 🔍 Reverse Engineering |
 | 📡 SDR & Wireless Tools | 📶 Wireless Protocols | 🍎 Apple AirDrop / AWDL |
