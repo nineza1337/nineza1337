@@ -1,3 +1,15 @@
+# Hi, I'm NINE
+
+### `just someone who thrives on challenge`
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=120&section=header&text=NYX&fontSize=50&fontColor=ffffff&fontAlignY=50&desc=CYBERSECURITY%20%2F%20NETWORK%20ANALYSIS&descAlignY=78&descSize=13" width="100%" />
+</p>
+
+<p align="center">
+  <b>Computer Science Student • Cybersecurity Enthusiast • Developer • Network Analysis</b>
+</p>
+
 <img src="https://komarev.com/ghpvc/?username=nineza1337&label=Profile%20views&color=00CED1&style=flat-square" alt="Profile views" />
 
 </div>
