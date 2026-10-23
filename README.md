@@ -1,4 +1,7 @@
 <p align="center">
+  <img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/parrots/parrot-trinidadandtobago.gif" width="10%" />
+</p>
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=120&section=header&text=NINE&fontSize=50&fontColor=ffffff&fontAlignY=50&desc=CYBERSECURITY%20%2F%20NETWORK%20ANALYSIS&descAlignY=78&descSize=13" width="100%" />
 </p>
 
@@ -12,8 +15,8 @@
 
 ---
 
+## 🧑‍💻 About Me
 <p align="center">
-  ## 🧑‍💻 About Me
   <img src="https://camo.githubusercontent.com/5417b2eeea698072b823820f973c430610314505b97d2acf286a91797e460d1d/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width="10%" />
 </p>
 
