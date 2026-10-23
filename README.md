@@ -1,5 +1,3 @@
-# Hi, I'm NINE
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=120&section=header&text=NINE&fontSize=50&fontColor=ffffff&fontAlignY=50&desc=CYBERSECURITY%20%2F%20NETWORK%20ANALYSIS&descAlignY=78&descSize=13" width="100%" />
 </p>
